@@ -13,6 +13,7 @@
     "webpack-cli": "^4.2.0"
   },
   "scripts": {
-    "compile": "tsc"
+	  "compile": "webpack",
+	  "test": "jest"
   }
 }
