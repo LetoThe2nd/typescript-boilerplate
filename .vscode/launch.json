@@ -15,7 +15,9 @@
 			"outFiles": [
 				"${workspaceFolder}/dist/**/*.js"
 			],
-			"preLaunchTask": "tsc: build - tsconfig.json"
+			/*"preLaunchTask": "tsc: build - tsconfig.json"*/
+			"preLaunchTask": "webpack",
+			"sourceMaps": true
 		}
 	]
 }
