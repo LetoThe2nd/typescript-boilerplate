@@ -6,6 +6,11 @@
   "license": "MIT",
   "private": true,
   "workspaces": [
-	  "workspaces/simplepack"
-  ]
+    "workspaces/simplepack",
+    "workspaces/complexpack"
+  ],
+  "scripts": {
+    "compile": "yarn workspaces foreach run compile",
+    "test": "yarn workspaces foreach run test"
+  }
 }

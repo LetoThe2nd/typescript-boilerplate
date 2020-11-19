@@ -1,5 +1,5 @@
 {
-  "name": "simplepack",
+  "name": "complexpack",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -16,5 +16,8 @@
   "scripts": {
     "compile": "webpack",
     "test": "jest"
+  },
+  "dependencies": {
+    "simplepack": "workspace:workspaces/simplepack"
   }
 }
