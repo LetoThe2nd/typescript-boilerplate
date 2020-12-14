@@ -4,7 +4,7 @@ Last push state:
 
 Last push state on bleeding:
 
-![example workflow name](https://github.com/LetoThe2nd/typescript-boilerplate/workflows/Node.js%20CI%Bleeding/badge.svg)
+![example workflow name](https://github.com/LetoThe2nd/typescript-boilerplate/workflows/Node.js%20CI%20Bleeding/badge.svg)
 
 2020-11-19:
 
