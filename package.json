@@ -7,7 +7,8 @@
   "private": true,
   "workspaces": [
     "workspaces/simplepack",
-    "workspaces/complexpack"
+    "workspaces/complexpack",
+    "workspaces/simplereact"
   ],
   "scripts": {
     "compile": "yarn workspaces foreach run compile",
