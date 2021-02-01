@@ -13,7 +13,8 @@
   ],
   "scripts": {
     "compile": "yarn workspaces foreach run compile",
-    "test": "yarn workspaces foreach run test"
+    "test": "yarn workspaces foreach run test",
+    "postinstall": "yarn dlx @yarnpkg/pnpify --sdk vscode"
   },
   "dependencies": {
     "@yarnpkg/pnpify": "^2.4.0",

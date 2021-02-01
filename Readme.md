@@ -14,6 +14,9 @@ yarn pnpify für VSCode-Support:
 https://next.yarnpkg.com/advanced/pnpify
 https://next.yarnpkg.com/getting-started/editor-sdks
 
+Lösung für types-Resolution auf jest in VScode: jest muss eine globale
+Dependency sein.
+
 2020-11-19:
 
 Fix für fsevents:
