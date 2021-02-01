@@ -57,7 +57,9 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {
           "packageLocation": "./",
           "packageDependencies": [
+            ["@types/jest", "npm:26.0.20"],
             ["@yarnpkg/pnpify", "virtual:ebd0d2f0d142e5b84982fee83e588b39db1a803d77f38b2ee7e2b3087701269e4de8cf6f6956341194c64be505ccbca850851cf86da2b459321497981077c65a#npm:2.4.0"],
+            ["jest", "npm:26.6.3"],
             ["prettier", "npm:2.2.1"],
             ["typescript", "patch:typescript@npm%3A4.1.3#builtin<compat/typescript>::version=4.1.3&hash=5bf698"]
           ],
@@ -7736,7 +7738,9 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",
           "packageDependencies": [
             ["typescript-boilerplate", "workspace:."],
+            ["@types/jest", "npm:26.0.20"],
             ["@yarnpkg/pnpify", "virtual:ebd0d2f0d142e5b84982fee83e588b39db1a803d77f38b2ee7e2b3087701269e4de8cf6f6956341194c64be505ccbca850851cf86da2b459321497981077c65a#npm:2.4.0"],
+            ["jest", "npm:26.6.3"],
             ["prettier", "npm:2.2.1"],
             ["typescript", "patch:typescript@npm%3A4.1.3#builtin<compat/typescript>::version=4.1.3&hash=5bf698"]
           ],
