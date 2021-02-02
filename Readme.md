@@ -6,6 +6,11 @@ Last push state on bleeding:
 
 ![example workflow name](https://github.com/LetoThe2nd/typescript-boilerplate/workflows/Node.js%20CI%20Bleeding/badge.svg)
 
+2021-02-02:
+
+plugin-updates sind faktisch ein re-import:
+yarn plugin import <name or source>
+
 2021-02-01:
 
 version bumps
