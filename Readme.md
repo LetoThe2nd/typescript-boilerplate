@@ -6,6 +6,10 @@ Last push state on bleeding:
 
 ![example workflow name](https://github.com/LetoThe2nd/typescript-boilerplate/workflows/Node.js%20CI%20Bleeding/badge.svg)
 
+2021-02-03:
+
+workspace events hinzugefügt
+
 2021-02-02:
 
 plugin-updates sind faktisch ein re-import:
