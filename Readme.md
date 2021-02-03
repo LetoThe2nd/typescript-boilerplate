@@ -11,6 +11,11 @@ Last push state on bleeding:
 plugin-updates sind faktisch ein re-import:
 yarn plugin import <name or source>
 
+fsevents-fix ist noch immer notwendig
+
+Jest + EventListeners
+https://www.jackfranklin.co.uk/blog/testing-event-listeners-javascript/
+
 2021-02-01:
 
 version bumps
