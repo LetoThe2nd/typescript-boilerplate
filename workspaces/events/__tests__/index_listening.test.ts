@@ -2,8 +2,8 @@ import { EventEmitter } from "events";
 
 import { simpleListener } from "../src/index";
 
-describe("This is a simple test", () => {
-    test("Check the simpleListener function", () => {
+describe("Checking the simpleListener function", () => {
+    test("listening", () => {
 		// setup
 		const key = "whatever";
 		const ee = new EventEmitter();
